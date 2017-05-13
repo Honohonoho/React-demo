@@ -5,5 +5,14 @@ body {
 }
 h1 {
   text-align: center;
-  color: #fcc;	
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;	
+}
+#root2{
+	display: table;
+	width: 100%
+	height: 100vh;
+	background-color: #fcc;
 }
