@@ -2,6 +2,7 @@
   "name": "demo0",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://honohonoho.github.io/React-demo/demo0/build/index.html",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
